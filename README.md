@@ -2,7 +2,7 @@ This is the guide mentioned in the following video:
 
 MOOSE finite element framework tutorial part-1 | Introduction and Installation
 
-Link of video: https://youtu.be/V7azGBtIkQA
+Link of video: 
 
 Email: notrealengineering@gmail.com
 
